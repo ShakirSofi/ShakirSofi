@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakirSofi
 - 👀 I’m interested in Data Intensive Mathematical Modelling And Simulations
-- 🌱 I’m currently learning MSc Data Science @ Skoltech
+- 🌱 I’m currently doing MSc Data Science @ Skoltech
 
 
 <!---
