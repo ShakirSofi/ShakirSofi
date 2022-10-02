@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakirSofi
 - 👀 I’m interested in Matrix and Tensor decompositions, Spatiotemporal pattern mining, Time series analysis, ML/DL for climate modelling.
-- 🌱 I earned a master's degree in data science @ Skoltech
+- 🌱 I have a master's degree in data science @ Skoltech
 
 
 <!---
